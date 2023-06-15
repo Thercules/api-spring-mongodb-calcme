@@ -32,6 +32,7 @@ Faça o download e instale o Spring Boot CLI. <br>
 
 2. Importação do Projeto no Spring Tools Suite (STS) <br>
 Faça o download e instale o Spring Tools Suite. <br>
+[Clique aqui para ir ao repositório do back](https://github.com/Thercules/api-spring-mongodb-calcme)<br>
 Abra o STS e clique em File > Import > Existing Maven Projects. <br>
 Navegue até o diretório onde o projeto está localizado e selecione a pasta raiz do projeto. <br>
 Clique em Finish para importar o projeto. <br> 
@@ -40,7 +41,7 @@ Clique em Finish para importar o projeto. <br>
 Faça o download e instale o Visual Studio Code. <br>
 Abra o VSCode e clique em File > Open Folder. <br>
 Navegue até o diretório onde o projeto está localizado e selecione a pasta raiz do projeto. <br>
-[Clique aqui para ir ao repositório do front](https://github.com/Thercules/front-api-spring-mongodb-calcme)
+[Clique aqui para ir ao repositório do front](https://github.com/Thercules/front-api-spring-mongodb-calcme)<br>
 Clique em Open para importar o projeto. <br> 
 
 4. Atualização das Bibliotecas do Angular <br>
