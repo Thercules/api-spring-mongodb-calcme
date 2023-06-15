@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "648a2a65d588c0653982b543"
+  },
+  "email": "thhercules2012@gmail.com",
+  "name": "Thiago Hercules de Aguiar Silva",
+  "phone": "81987209676",
+  "_class": "com.desafio.desafiobackend.dto.UserRegisterDto"
+},
+{
+  "_id": {
+    "$oid": "648a3023d588c0653982b544"
+  },
+  "email": "teste@mail.com",
+  "name": "Usuário Teste 1",
+  "phone": "99999999999",
+  "_class": "com.desafio.desafiobackend.dto.UserRegisterDto"
+},
+{
+  "_id": {
+    "$oid": "648a303ad588c0653982b545"
+  },
+  "email": "teste2@mail.com",
+  "name": "Usuário Teste 2",
+  "phone": "99999999999",
+  "_class": "com.desafio.desafiobackend.dto.UserRegisterDto"
+},
+{
+  "_id": {
+    "$oid": "648a39fed588c0653982b546"
+  },
+  "email": "fulano@mail.com",
+  "name": "Fulano de Tal",
+  "phone": "88888888888",
+  "_class": "com.desafio.desafiobackend.dto.UserRegisterDto"
+}]
